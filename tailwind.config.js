@@ -20,6 +20,8 @@ module.exports = {
             transparent: 'transparent',
             white: '#ffffff',
             black: '#000000',
+            primary: '#cca15e',
+            accent: '#a4a8aa',
             gray: {
                 '50': '#f9fafb',
                 '100': '#f4f5f7',
